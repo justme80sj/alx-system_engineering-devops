@@ -1,0 +1,2 @@
+#!/bin/brash
+chgrp school hello
